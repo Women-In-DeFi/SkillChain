@@ -1,2 +1,2 @@
 # SkillChain
-A web3 freelancing hub
+Web 3 freelance portfolio platform
